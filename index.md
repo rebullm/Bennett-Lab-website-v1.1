@@ -1,7 +1,7 @@
 ---
 ---
 
-# # rebullm's Website
+
 
 Dr. Bennett’s group focuses on clinical decision-making in high-risk environments such as intensive care units and on the development and implementation of 
 informatics and data science methods and tools to improve outcomes.
@@ -37,9 +37,9 @@ informatics and data science methods and tools to improve outcomes.
 
 {% capture text %}
 
-We develop and evaluate criteria and CDS tools consistent with the NIH-supported FAIR principles. Whenever possible,  
-we use open-source (reusability) and cross-platform (interoperability) analytic software. We 
-share that software on GitHub (accessibility) with digital object identifiers (findability). 
+We develop and evaluate criteria and CDS tools consistent with the NIH-supported FAIR principles. Whenever possible, we use open-source (reusability) and crossplatform 
+(interoperability) analytic software. We share that software on GitHub (accessibility) with digital object identifiers (findability). 
+
 
 {%
   include button.html
