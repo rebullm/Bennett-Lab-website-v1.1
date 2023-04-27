@@ -29,7 +29,7 @@ informatics and data science methods and tools to improve outcomes.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/photo2.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -54,7 +54,7 @@ share that software on GitHub (accessibility) with digital object identifiers (f
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/photo3.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -81,7 +81,7 @@ recruiting women and those of underrepresented backgrounds to academic medicine 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/photo4.jpg"
   link="team"
   title="Our Team"
   text=text
