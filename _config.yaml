@@ -1,8 +1,7 @@
 # site properties and page defaults
 title: Bennett Lab 
 subtitle: IMPROVING CLINICAL OUTCOMES THROUGH INFORMATICS AND DATA SCIENCE
-description: Dr. Bennett’s group focuses on clinical decision-making in high-risk environments such as intensive care units and on the development and implementation of 
-informatics and data science methods and tools to improve outcomes.
+description: Dr. Bennett’s group focuses on clinical decision-making in high-risk environments such as intensive care units and on the development and implementation of informatics and data science methods and tools to improve outcomes.
 header: images/banner6.jpg
 footer: images/banner6.jpg
 
@@ -10,7 +9,7 @@ footer: images/banner6.jpg
 links:
   email: contact@rebullm.com
   orcid: 0000-0003-1483-4236
-  google-scholar: https://scholar.google.com/citations?user=g2HQCpsAAAAJ&hl=en
+  google-scholar: g2HQCpsAAAAJ
   github: tdbennett
   twitter: rebullm
   youtube: rebullm
