@@ -1,9 +1,10 @@
 ---
 ---
 
-# rebullm's Website
+# # rebullm's Website
 
-An engaging 1-3 sentence description of your lab.
+Dr. Bennett’s group focuses on clinical decision-making in high-risk environments such as intensive care units and on the development and implementation of 
+informatics and data science methods and tools to improve outcomes.
 
 {% include section.html %}
 
@@ -11,7 +12,9 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+1. Design and develop novel computational models, tools, and interfaces <br>
+2. Build tools into real-time clinical decision support systems <br>
+3. Partner with health systems to deploy tools and rigorously evaluate their impact <br>
 
 {%
   include button.html
@@ -34,7 +37,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We develop and evaluate criteria and CDS tools consistent with the NIH-supported FAIR principles. Whenever possible,  
+we use open-source (reusability) and cross-platform (interoperability) analytic software. We 
+share that software on GitHub (accessibility) with digital object identifiers (findability). 
 
 {%
   include button.html
@@ -59,7 +64,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our mentoring mission is to nurture a diverse pipeline of talented and well-trained clinicians and non-clinicians engaged in Patient Oriented Research (POR) using
+informatics methods. We strongly believe that organizations with diverse membership are more innovative and serve their communities better, therefore we are passionate
+recruiting women and those of underrepresented backgrounds to academic medicine and POR and helping them be successful and grow into mentors themselves. 
 
 {%
   include button.html
