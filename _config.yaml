@@ -1,7 +1,8 @@
 # site properties and page defaults
 title: Bennett Lab 
 subtitle: IMPROVING CLINICAL OUTCOMES THROUGH INFORMATICS AND DATA SCIENCE
-description: An engaging 1-3 sentence description of your lab.
+description: Dr. Bennett’s group focuses on clinical decision-making in high-risk environments such as intensive care units and on the development and implementation of 
+informatics and data science methods and tools to improve outcomes.
 header: images/background.jpg
 footer: images/background.jpg
 
