@@ -1,5 +1,44 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1093/jamia/ocad057
+  title: 'Clinical encounter heterogeneity and methods for resolving in networked
+    EHR data: a study from N3C and RECOVER programs'
+  authors:
+  - Peter Leese
+  - Adit Anand
+  - Andrew Girvin
+  - Amin Manna
+  - Saaya Patel
+  - Yun Jae Yoo
+  - Rachel Wong
+  - Melissa Haendel
+  - Christopher G Chute
+  - Tellen Bennett
+  - Janos Hajagos
+  - Emily Pfaff
+  - Richard Moffitt
+  publisher: Journal of the American Medical Informatics Association
+  date: '2023-04-22'
+  link: https://doi.org/gr7454
+  orcid: 0000-0003-1483-4236
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.05.08.23289682
+  title: Personalizing the Pressure Reactivity Index for Neurocritical Care Decision
+    Support
+  authors:
+  - Jennifer K. Briggs
+  - J.N. Stroh
+  - Brandon Foreman
+  - Soojin Park
+  - Tellen D. Bennett
+  - David J. Albers
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-05-14'
+  link: https://doi.org/gr82pg
+  orcid: 0000-0003-1483-4236
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/sleep/zsad126
   title: ''
   authors: []
@@ -31,29 +70,6 @@
   publisher: Chest
   date: '2023-05-01'
   link: https://doi.org/gr7453
-  orcid: 0000-0003-1483-4236
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/jamia/ocad057
-  title: 'Clinical encounter heterogeneity and methods for resolving in networked
-    EHR data: a study from N3C and RECOVER programs'
-  authors:
-  - Peter Leese
-  - Adit Anand
-  - Andrew Girvin
-  - Amin Manna
-  - Saaya Patel
-  - Yun Jae Yoo
-  - Rachel Wong
-  - Melissa Haendel
-  - Christopher G Chute
-  - Tellen Bennett
-  - Janos Hajagos
-  - Emily Pfaff
-  - Richard Moffitt
-  publisher: Journal of the American Medical Informatics Association
-  date: '2023-04-22'
-  link: https://doi.org/gr7454
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
