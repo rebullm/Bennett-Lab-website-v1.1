@@ -1,11 +1,142 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2024.01.17.24301445
+  title: Intracranial pressure-flow relationships in traumatic brain injury patients
+    expose gaps in the tenets of models and pressure-oriented management
+  authors:
+  - JN Stroh
+  - Brandon Foreman
+  - Tellen D Bennett
+  - Jennifer K Briggs
+  - Soojin Park
+  - David J Albers
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-01-18'
+  link: https://doi.org/gtfdsj
+  orcid: 0000-0003-1483-4236
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.12.14.23299978
+  title: 'Identifying low-dimensional trajectories of mechanically-ventilated patient
+    systems: Empirical phenotypes of joint patient+care processes to enhance temporal
+    analysis in ARDS research'
+  authors:
+  - J.N. Stroh
+  - Peter D. Sottile
+  - Yanran Wang
+  - Bradford J. Smith
+  - Tellen D. Bennett
+  - Marc Moss
+  - David J. Albers
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-12-15'
+  link: https://doi.org/gs9bd2
+  orcid: 0000-0003-1483-4236
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jbi.2023.104547
+  title: 'A methodology of phenotyping ICU patients from EHR data: High-fidelity,
+    personalized, and interpretable phenotypes estimation'
+  authors:
+  - Yanran Wang
+  - J.N. Stroh
+  - George Hripcsak
+  - Cecilia C. Low Wang
+  - Tellen D. Bennett
+  - Julia Wrobel
+  - Caroline Der Nigoghossian
+  - Scott W. Mueller
+  - Jan Claassen
+  - D.J. Albers
+  publisher: Journal of Biomedical Informatics
+  date: '2023-12-01'
+  link: https://doi.org/gs5d9x
+  orcid: 0000-0003-1483-4236
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/sleep/zsad126
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: 'Risk of post-acute sequelae of SARS-CoV-2 infection associated with pre-coronavirus
+    disease obstructive sleep apnea diagnoses: an electronic health record-based analysis
+    from the RECOVER initiative'
+  authors:
+  - Hannah L Mandel
+  - Gunnar Colleen
+  - Sajjad Abedian
+  - Nariman Ammar
+  - L Charles Bailey
+  - Tellen D Bennett
+  - M Daniel Brannock
+  - Shari B Brosnahan
+  - Yu Chen
+  - Christopher G Chute
+  - Jasmin Divers
+  - Michael D Evans
+  - Melissa Haendel
+  - Margaret A Hall
+  - Kathryn Hirabayashi
+  - Mady Hornig
+  - Stuart D Katz
+  - Ana C Krieger
+  - Johanna Loomba
+  - Vitaly Lorman
+  - Diego R Mazzotti
+  - Julie McMurry
+  - Richard A Moffitt
+  - Nathan M Pajor
+  - Emily Pfaff
+  - Jeff Radwell
+  - Hanieh Razzaghi
+  - Susan Redline
+  - Elle Seibert
+  - Anisha Sekar
+  - Suchetha Sharma
+  - Tanayott Thaweethai
+  - Mark G Weiner
+  - Yun Jae Yoo
+  - Andrea Zhou
+  - Lorna E Thorpe
+  publisher: SLEEP
+  date: '2023-05-11'
   link: https://doi.org/gr745z
+  orcid: 0000-0003-1483-4236
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jamia/ocad057
+  title: 'Clinical encounter heterogeneity and methods for resolving in networked
+    EHR data: a study from N3C and RECOVER programs'
+  authors:
+  - Peter Leese
+  - Adit Anand
+  - Andrew Girvin
+  - Amin Manna
+  - Saaya Patel
+  - Yun Jae Yoo
+  - Rachel Wong
+  - Melissa Haendel
+  - Christopher G Chute
+  - Tellen Bennett
+  - Janos Hajagos
+  - Emily Pfaff
+  - Richard Moffitt
+  publisher: Journal of the American Medical Informatics Association
+  date: '2023-04-22'
+  link: https://doi.org/gr7454
+  orcid: 0000-0003-1483-4236
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.05.08.23289682
+  title: Personalizing the Pressure Reactivity Index for Neurocritical Care Decision
+    Support
+  authors:
+  - Jennifer K. Briggs
+  - J.N. Stroh
+  - Brandon Foreman
+  - Soojin Park
+  - Tellen D. Bennett
+  - David J. Albers
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-05-14'
+  link: https://doi.org/gr82pg
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
@@ -31,29 +162,6 @@
   publisher: Chest
   date: '2023-05-01'
   link: https://doi.org/gr7453
-  orcid: 0000-0003-1483-4236
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/jamia/ocad057
-  title: 'Clinical encounter heterogeneity and methods for resolving in networked
-    EHR data: a study from N3C and RECOVER programs'
-  authors:
-  - Peter Leese
-  - Adit Anand
-  - Andrew Girvin
-  - Amin Manna
-  - Saaya Patel
-  - Yun Jae Yoo
-  - Rachel Wong
-  - Melissa Haendel
-  - Christopher G Chute
-  - Tellen Bennett
-  - Janos Hajagos
-  - Emily Pfaff
-  - Richard Moffitt
-  publisher: Journal of the American Medical Informatics Association
-  date: '2023-04-22'
-  link: https://doi.org/gr7454
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
@@ -615,26 +723,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:33118943
-  title: 'Integrating the Practical Robust Implementation and Sustainability Model
-    With Best Practices in Clinical Decision Support Design: Implementation Science
-    Approach.'
-  authors:
-  - Katy E Trinkley
-  - Michael G Kahn
-  - Tellen D Bennett
-  - Russell E Glasgow
-  - Heather Haugen
-  - David P Kao
-  - Miranda E Kroehl
-  - Chen-Tan Lin
-  - Daniel C Malone
-  - Daniel D Matlock
-  publisher: Journal of medical Internet research
-  date: '2020-10-29'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/33118943
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.2196/19676
   title: 'Integrating the Practical Robust Implementation and Sustainability Model
     With Best Practices in Clinical Decision Support Design: Implementation Science
@@ -699,21 +791,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:32511201
-  title: 'Joining Datasets Without Identifiers: Probabilistic Linkage of Virtual Pediatric
-    Systems and PEDSnet.'
-  authors:
-  - Adam C Dziorny
-  - Robert B Lindell
-  - Tellen D Bennett
-  - L Charles Bailey
-  publisher: 'Pediatric critical care medicine : a journal of the Society of Critical
-    Care Medicine and the World Federation of Pediatric Intensive and Critical Care
-    Societies'
-  date: '2020-09-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/32511201
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.2196/preprints.23215
   title: 'Clinical Decision Support for Traumatic Brain Injury: Identifying a Framework
     for Practical Model-Based Intracranial Pressure Estimation at Multihour Timescales
@@ -746,21 +827,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:32730116
-  title: Generative Adversarial Domain Adaptation for Nucleus Quantification in Images
-    of Tissue Immunohistochemically Stained for Ki-67.
-  authors:
-  - Xuhong Zhang
-  - Toby C Cornish
-  - Lin Yang
-  - Tellen D Bennett
-  - Debashis Ghosh
-  - Fuyong Xing
-  publisher: JCO clinical cancer informatics
-  date: '2020-07-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/32730116
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.1200/cci.19.00108
   title: Generative Adversarial Domain Adaptation for Nucleus Quantification in Images
     of Tissue Immunohistochemically Stained for Ki-67
@@ -795,24 +865,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:32639472
-  title: Design and Rationale for Common Data Elements for Clinical Research in Pediatric
-    Critical Care Medicine.
-  authors:
-  - Shan L Ward
-  - Heidi R Flori
-  - Tellen D Bennett
-  - Anil Sapru
-  - Peter M Mourani
-  - Neal J Thomas
-  - Robinder G Khemani
-  publisher: 'Pediatric critical care medicine : a journal of the Society of Critical
-    Care Medicine and the World Federation of Pediatric Intensive and Critical Care
-    Societies'
-  date: '2020-11-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/32639472
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.2196/preprints.19676
   title: 'Integrating the Practical Robust Implementation and Sustainability Model
     With Best Practices in Clinical Decision Support Design: Implementation Science
@@ -871,22 +927,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:31675722
-  title: Parental involvement in decision making about intracranial pressure monitor
-    placement in children with traumatic brain injury.
-  authors:
-  - Rebekah Marsh
-  - Daniel D Matlock
-  - Julie A Maertens
-  - Alleluiah Rutebemberwa
-  - Megan A Morris
-  - Todd C Hankinson
-  - Tellen D Bennett
-  publisher: Journal of neurosurgery. Pediatrics
-  date: '2019-11-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/31675722
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.1109/TBME.2019.2900378
   title: Pixel-to-Pixel Learning With Weak Supervision for Single-Stage Nucleus Recognition
     in Ki67 Images
@@ -931,37 +975,15 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:31825019
-  title: Adversarial Domain Adaptation and Pseudo-Labeling for Cross-Modality Microscopy
-    Image Quantification.
-  authors:
-  - Fuyong Xing
-  - Tell Bennett
-  - Debashis Ghosh
-  publisher: 'Medical image computing and computer-assisted intervention : MICCAI
-    ... International Conference on Medical Image Computing and Computer-Assisted
-    Intervention'
-  date: '2019-10-10'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/31825019
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: pmid:31589198
-  title: Outcomes of Day 1 Multiple Organ Dysfunction Syndrome in the PICU.
-  authors:
-  - Katri Typpo
-  - R Scott Watson
-  - Tellen D Bennett
-  - Reid W D Farris
-  - Michael C Spaeder
-  - Nancy J Petersen
-  publisher: 'Pediatric critical care medicine : a journal of the Society of Critical
-    Care Medicine and the World Federation of Pediatric Intensive and Critical Care
-    Societies'
-  date: '2019-10-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/31589198
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.1097/pcc.0000000000002044
   title: Outcomes of Day 1 Multiple Organ Dysfunction Syndrome in the PICU*
   authors:
@@ -995,24 +1017,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:30985605
-  title: Decision-Making About Intracranial Pressure Monitor Placement in Children
-    With Traumatic Brain Injury.
-  authors:
-  - Tellen D Bennett
-  - Rebekah Marsh
-  - Julie A Maertens
-  - Alle Rutebemberwa
-  - Megan A Morris
-  - Todd C Hankinson
-  - Daniel D Matlock
-  publisher: 'Pediatric critical care medicine : a journal of the Society of Critical
-    Care Medicine and the World Federation of Pediatric Intensive and Critical Care
-    Societies'
-  date: '2019-07-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/30985605
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: pmc:PMC6568075
   title: Kung Faux Pandas Simplifying privacy protection
   authors:
@@ -1028,19 +1036,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:31258979
-  title: Kung Faux Pandas Simplifying privacy protection.
-  authors:
-  - James King
-  - Seth Russell
-  - Tellen D Bennett
-  - Debashis Ghosh
-  publisher: AMIA Joint Summits on Translational Science proceedings. AMIA Joint Summits
-    on Translational Science
-  date: '2019-05-06'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/31258979
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.1038/s41746-019-0110-4
   title: Semantic integration of clinical laboratory tests from electronic health
     records for deep phenotyping and biomarker discovery
@@ -1082,45 +1081,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:31119199
-  title: Semantic integration of clinical laboratory tests from electronic health
-    records for deep phenotyping and biomarker discovery.
-  authors:
-  - Xingmin Aaron Zhang
-  - Amy Yates
-  - Nicole Vasilevsky
-  - J P Gourdine
-  - Tiffany J Callahan
-  - Leigh C Carmody
-  - Daniel Danis
-  - Marcin P Joachimiak
-  - Vida Ravanmehr
-  - Emily R Pfaff
-  - James Champion
-  - Kimberly Robasky
-  - Hao Xu
-  - Karamarie Fecho
-  - Nephi A Walton
-  - Richard L Zhu
-  - Justin Ramsdill
-  - Christopher J Mungall
-  - "Sebastian K\xF6hler"
-  - Melissa A Haendel
-  - Clement J McDonald
-  - Daniel J Vreeman
-  - David B Peden
-  - Tellen D Bennett
-  - James A Feinstein
-  - Blake Martin
-  - Adrianne L Stefanski
-  - Lawrence E Hunter
-  - Christopher G Chute
-  - Peter N Robinson
-  publisher: NPJ digital medicine
-  date: '2019-05-02'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/31119199
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: pmc:PMC6527418
   title: Semantic integration of clinical laboratory tests from electronic health
     records for deep phenotyping and biomarker discovery
@@ -1162,25 +1126,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:30444861
-  title: Change in functional status among children treated in the intensive care
-    unit after injury.
-  authors:
-  - Omar Z Ahmed
-  - Richard Holubkov
-  - J Michael Dean
-  - Tellen D Bennett
-  - Kathleen L Meert
-  - Robert A Berg
-  - Christopher J L Newth
-  - Joseph A Carcillo
-  - Randall S Burd
-  - Murray M Pollack
-  publisher: The journal of trauma and acute care surgery
-  date: '2019-05-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/30444861
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.1097/ta.0000000000002120
   title: Change in functional status among children treated in the intensive care
     unit after injury
@@ -1222,20 +1171,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:30802845
-  title: Pixel-to-Pixel Learning With Weak Supervision for Single-Stage Nucleus Recognition
-    in Ki67 Images.
-  authors:
-  - Fuyong Xing
-  - Toby C Cornish
-  - Tell Bennett
-  - Debashis Ghosh
-  - Lin Yang
-  publisher: IEEE transactions on bio-medical engineering
-  date: '2019-02-22'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/30802845
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.1109/tbme.2019.2900378
   title: Pixel-to-Pixel Learning With Weak Supervision for Single-Stage Nucleus Recognition
     in Ki67 Images
@@ -1286,16 +1225,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:30653066
-  title: Sepsis Computable Phenotypes in the Service of Observational Research.
-  authors:
-  - Blake Martin
-  - Tellen D Bennett
-  publisher: Critical care medicine
-  date: '2019-02-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/30653066
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.3171/2018.10.peds18374
   title: 'Use of magnetic resonance imaging in severe pediatric traumatic brain injury:
     assessment of current practice'
@@ -1333,23 +1266,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:30738383
-  title: 'Use of magnetic resonance imaging in severe pediatric traumatic brain injury:
-    assessment of current practice.'
-  authors:
-  - Peter A Ferrazzano
-  - Bedda L Rosario
-  - Stephen R Wisniewski
-  - Nadeem I Shafi
-  - Heather M Siefkes
-  - Darryl K Miles
-  - Andrew L Alexander
-  - Michael J Bell
-  publisher: Journal of neurosurgery. Pediatrics
-  date: '2019-02-08'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/30738383
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.1016/j.jpeds.2018.12.041
   title: Data Science for Child Health
   authors:
@@ -1368,22 +1288,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:30686480
-  title: Data Science for Child Health.
-  authors:
-  - Tellen D Bennett
-  - Tiffany J Callahan
-  - James A Feinstein
-  - Debashis Ghosh
-  - Saquib A Lakhani
-  - Michael C Spaeder
-  - Stanley J Szefler
-  - Michael G Kahn
-  publisher: The Journal of pediatrics
-  date: '2019-01-25'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/30686480
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: pmc:PMC6486872
   title: Data Science for Child Health
   authors:
@@ -1402,19 +1310,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:30520845
-  title: Tranexamic Acid and Seizures in Pediatric Trauma.
-  authors:
-  - Michele M Loi
-  - S Christopher Derderian
-  - Tellen D Bennett
-  publisher: 'Pediatric critical care medicine : a journal of the Society of Critical
-    Care Medicine and the World Federation of Pediatric Intensive and Critical Care
-    Societies'
-  date: '2018-12-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/30520845
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: pmc:PMC6287265
   title: Tranexamic Acid and Seizures in Pediatric Trauma
   authors:
@@ -1472,34 +1371,15 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:30119094
-  title: The Association Between the Functional Status Scale and the Pediatric Functional
-    Independence Measure in Children Who Survive Traumatic Brain Injury.
-  authors:
-  - Aline B Maddux
-  - Matthew Cox-Martin
-  - Michael Dichiaro
-  - Tellen D Bennett
-  publisher: 'Pediatric critical care medicine : a journal of the Society of Critical
-    Care Medicine and the World Federation of Pediatric Intensive and Critical Care
-    Societies'
-  date: '2018-11-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/30119094
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: pmid:30281569
-  title: Phenotyping in Pediatric Traumatic Brain Injury.
-  authors:
-  - Michael A Carlisle
-  - Tellen D Bennett
-  publisher: 'Pediatric critical care medicine : a journal of the Society of Critical
-    Care Medicine and the World Federation of Pediatric Intensive and Critical Care
-    Societies'
-  date: '2018-10-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/30281569
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.1097/pcc.0000000000001678
   title: Phenotyping in Pediatric Traumatic Brain Injury*
   authors:
@@ -1525,26 +1405,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:29476389
-  title: 'Age and Mortality in Pediatric Severe Traumatic Brain Injury: Results from
-    an International Study.'
-  authors:
-  - Ajit Sarnaik
-  - Nikki Miller Ferguson
-  - A M Iqbal O'Meara
-  - Shruti Agrawal
-  - Akash Deep
-  - Sandra Buttram
-  - Michael J Bell
-  - Stephen R Wisniewski
-  - James F Luther
-  - Adam L Hartman
-  - Monica S Vavilala
-  publisher: Neurocritical care
-  date: '2018-06-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/29476389
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.1007/s12028-017-0480-x
   title: 'Age and Mortality in Pediatric Severe Traumatic Brain Injury: Results from
     an International Study'
@@ -1582,20 +1446,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:29710063
-  title: R Package for Pediatric Complex Chronic Condition Classification.
-  authors:
-  - James A Feinstein
-  - Seth Russell
-  - Peter E DeWitt
-  - Chris Feudtner
-  - Dingwei Dai
-  - Tellen D Bennett
-  publisher: JAMA pediatrics
-  date: '2018-06-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/29710063
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.1001/jamapediatrics.2018.0256
   title: R Package for Pediatric Complex Chronic Condition Classification
   authors:
@@ -1612,17 +1466,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:29459950
-  title: Functional Outcome After Intracranial Presuure Monitoring-Reply.
-  authors:
-  - Tellen D Bennett
-  - Tom H Greene
-  - Heather T Keenan
-  publisher: JAMA pediatrics
-  date: '2018-04-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/29459950
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.1001/jamapediatrics.2017.5662
   title: "Functional Outcome After Intracranial Presuure Monitoring\u2014Reply"
   authors:
@@ -1661,20 +1508,12 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:29499026
-  title: 'Mortality After Pediatric Critical Illness: Made It Home, Still Vulnerable.'
-  authors:
-  - Aline B Maddux
-  - Tellen D Bennett
-  publisher: 'Pediatric critical care medicine : a journal of the Society of Critical
-    Care Medicine and the World Federation of Pediatric Intensive and Critical Care
-    Societies'
-  date: '2018-03-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/29499026
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.1097/pcc.0000000000001432
-  title: Mortality After Pediatric Critical Illness
+  title: 'Mortality After Pediatric Critical Illness: Made It Home, Still Vulnerable*'
   authors:
   - Aline B. Maddux
   - Tellen D. Bennett
@@ -1723,25 +1562,10 @@
   file: orcid.yaml
   date: ''
 - id: pmid:28846763
-  title: Functional Outcome After Intracranial Pressure Monitoring for Children With
-    Severe Traumatic Brain Injury.
-  authors:
-  - Tellen D Bennett
-  - Peter E DeWitt
-  - Tom H Greene
-  - Rajendu Srivastava
-  - Jay Riva-Cambrin
-  - Michael L Nance
-  - Susan L Bratton
-  - Desmond K Runyan
-  - J Michael Dean
-  - Heather T Keenan
-  publisher: JAMA pediatrics
-  date: '2017-10-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/28846763
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.1001/jamapediatrics.2017.2127
   title: Functional Outcome After Intracranial Pressure Monitoring for Children With
     Severe Traumatic Brain Injury
@@ -1776,41 +1600,15 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:29149394
-  title: Challenges and opportunities for pediatric severe TBI-review of the evidence
-    and exploring a way forward.
-  authors:
-  - Michael J Bell
-  - P David Adelson
-  - Stephen R Wisniewski
-  publisher: 'Child''s nervous system : ChNS : official journal of the International
-    Society for Pediatric Neurosurgery'
-  date: '2017-09-06'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/29149394
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: pmid:28430697
-  title: Abusive Head Trauma and Mortality-An Analysis From an International Comparative
-    Effectiveness Study of Children With Severe Traumatic Brain Injury.
-  authors:
-  - Nikki Miller Ferguson
-  - Ajit Sarnaik
-  - Darryl Miles
-  - Nadeem Shafi
-  - Mark J Peters
-  - Edward Truemper
-  - Monica S Vavilala
-  - Michael J Bell
-  - Stephen R Wisniewski
-  - James F Luther
-  - Adam L Hartman
-  - Patrick M Kochanek
-  publisher: Critical care medicine
-  date: '2017-08-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/28430697
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.1097/CCM.0000000000002378
   title: "Abusive Head Trauma and Mortality\u2013An Analysis From an International\
     \ Comparative Effectiveness Study of Children With Severe Traumatic Brain Injury"
@@ -1874,44 +1672,15 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:28252524
-  title: Development and Prospective Validation of Tools to Accurately Identify Neurosurgical
-    and Critical Care Events in Children With Traumatic Brain Injury.
-  authors:
-  - Tellen D Bennett
-  - Peter E DeWitt
-  - Rebecca R Dixon
-  - Cory Kartchner
-  - Yamila Sierra
-  - Diane Ladell
-  - Rajendu Srivastava
-  - Jay Riva-Cambrin
-  - Allison Kempe
-  - Desmond K Runyan
-  - Heather T Keenan
-  - J Michael Dean
-  publisher: 'Pediatric critical care medicine : a journal of the Society of Critical
-    Care Medicine and the World Federation of Pediatric Intensive and Critical Care
-    Societies'
-  date: '2017-05-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/28252524
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: pmid:27873234
-  title: EEG Monitoring and Antiepileptic Drugs in Children with Severe TBI.
-  authors:
-  - Christopher M Ruzas
-  - Peter E DeWitt
-  - Kimberly S Bennett
-  - Kevin E Chapman
-  - Nicole Harlaar
-  - Tellen D Bennett
-  publisher: Neurocritical care
-  date: '2017-04-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/27873234
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.1007/s12028-016-0329-8
   title: EEG Monitoring and Antiepileptic Drugs in Children with Severe TBI
   authors:
@@ -1928,31 +1697,14 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:28207570
-  title: 'International Survey of Critically Ill Children With Acute Neurologic Insults:
-    The Prevalence of Acute Critical Neurological Disease in Children: A Global Epidemiological
-    Assessment Study.'
-  authors:
-  - Ericka L Fink
-  - Patrick M Kochanek
-  - Robert C Tasker
-  - John Beca
-  - Michael J Bell
-  - Robert S B Clark
-  - Jamie Hutchison
-  - Monica S Vavilala
-  - Anthony Fabio
-  - Derek C Angus
-  - R Scott Watson
-  publisher: 'Pediatric critical care medicine : a journal of the Society of Critical
-    Care Medicine and the World Federation of Pediatric Intensive and Critical Care
-    Societies'
-  date: '2017-04-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/28207570
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.1097/PCC.0000000000001093
-  title: International Survey of Critically Ill Children With Acute Neurologic Insults
+  title: 'International Survey of Critically Ill Children With Acute Neurologic Insults:
+    The Prevalence of Acute Critical Neurological Disease in Children: A Global Epidemiological
+    Assessment Study*'
   authors:
   - Ericka L. Fink
   - Patrick M. Kochanek
@@ -2001,37 +1753,15 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:28107264
-  title: Readmission and Late Mortality After Critical Illness in Childhood.
-  authors:
-  - Mary E Hartman
-  - Mohammed J Saeed
-  - Tellen Bennett
-  - Katri Typpo
-  - Renee Matos
-  - Margaret A Olsen
-  publisher: 'Pediatric critical care medicine : a journal of the Society of Critical
-    Care Medicine and the World Federation of Pediatric Intensive and Critical Care
-    Societies'
-  date: '2017-03-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/28107264
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: pmid:27654815
-  title: Seizures in Children With Severe Traumatic Brain Injury.
-  authors:
-  - Kimberly Statler Bennett
-  - Peter E DeWitt
-  - Nicole Harlaar
-  - Tellen D Bennett
-  publisher: 'Pediatric critical care medicine : a journal of the Society of Critical
-    Care Medicine and the World Federation of Pediatric Intensive and Critical Care
-    Societies'
-  date: '2017-01-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/27654815
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.1097/PCC.0000000000000948
   title: Seizures in Children With Severe Traumatic Brain Injury*
   authors:
@@ -2062,23 +1792,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:26673842
-  title: Comparison of the New Adult Ventilator-Associated Event Criteria to the Centers
-    for Disease Control and Prevention Pediatric Ventilator-Associated Pneumonia Definition
-    (PNU2) in a Population of Pediatric Traumatic Brain Injury Patients.
-  authors:
-  - Meghan M Cirulis
-  - Mitchell T Hamele
-  - Chris R Stockmann
-  - Tellen D Bennett
-  - Susan L Bratton
-  publisher: 'Pediatric critical care medicine : a journal of the Society of Critical
-    Care Medicine and the World Federation of Pediatric Intensive and Critical Care
-    Societies'
-  date: '2016-02-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/26673842
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.1001/jamapediatrics.2015.4627
   title: Family Presence During Pediatric Tracheal Intubations
   authors:
@@ -2123,72 +1840,18 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:26954533
-  title: Family Presence During Pediatric Tracheal Intubations.
-  authors:
-  - Ronald C Sanders
-  - Sholeen T Nett
-  - Katherine Finn Davis
-  - Margaret M Parker
-  - G Kris Bysani
-  - Michelle Adu-Darko
-  - Geoffrey L Bird
-  - Ira M Cheifetz
-  - Ashley T Derbyshire
-  - Guillaume Emeriaud
-  - John S Giuliano
-  - Ana Lia Graciano
-  - Yusuke Hagiwara
-  - Glenda Hefley
-  - Takanari Ikeyama
-  - J Dean Jarvis
-  - Pradip Kamat
-  - Ashwin S Krishna
-  - Anthony Lee
-  - Jan Hau Lee
-  - Simon Li
-  - Keith Meyer
-  - Vicki L Montgomery
-  - Yuki Nagai
-  - Matthew Pinto
-  - Kyle J Rehder
-  - Osamu Saito
-  - Asha N Shenoi
-  - Hester Christianne Taekema
-  - Keiko M Tarquinio
-  - Ann E Thompson
-  - David A Turner
-  - Vinay M Nadkarni
-  - Akira Nishisaki
-  publisher: JAMA pediatrics
-  date: '2016-03-07'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/26954533
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: pmid:27753754
-  title: 'Functional Status Scale in Children With Traumatic Brain Injury: A Prospective
-    Cohort Study.'
-  authors:
-  - Tellen D Bennett
-  - Rebecca R Dixon
-  - Cory Kartchner
-  - Peter E DeWitt
-  - Yamila Sierra
-  - Diane Ladell
-  - Allison Kempe
-  - Desmond K Runyan
-  - J Michael Dean
-  - Heather T Keenan
-  publisher: 'Pediatric critical care medicine : a journal of the Society of Critical
-    Care Medicine and the World Federation of Pediatric Intensive and Critical Care
-    Societies'
-  date: '2016-12-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/27753754
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.1097/PCC.0000000000000934
-  title: Functional Status Scale in Children With Traumatic Brain Injury
+  title: 'Functional Status Scale in Children With Traumatic Brain Injury: A Prospective
+    Cohort Study*'
   authors:
   - Tellen D. Bennett
   - Rebecca R. Dixon
@@ -2207,21 +1870,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:27518769
-  title: Rapid resolution of infantile lipemia retinalis following exchange transfusion.
-  authors:
-  - Cara E Capitena
-  - Holly J Wagoner
-  - Christopher M Ruzas
-  - Tellen D Bennett
-  - Peter R Baker
-  - Jennifer L Jung
-  - James D Weisfeld-Adams
-  publisher: Journal of inherited metabolic disease
-  date: '2016-08-12'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/27518769
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.1007/s10545-016-9968-3
   title: Rapid resolution of infantile lipemia retinalis following exchange transfusion
   authors:
@@ -2231,7 +1883,7 @@
   - Tellen D. Bennett
   - Peter R. Baker
   - Jennifer L. Jung
-  - James D. Weisfeld-Adams
+  - "James D. Weisfeld\u2010Adams"
   publisher: Journal of Inherited Metabolic Disease
   date: '2016-08-12'
   link: https://doi.org/gr747h
@@ -2239,24 +1891,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:27243415
-  title: Variation in Anticonvulsant Selection and Electroencephalographic Monitoring
-    Following Severe Traumatic Brain Injury in Children-Understanding Resource Availability
-    in Sites Participating in a Comparative Effectiveness Study.
-  authors:
-  - Jonathan E Kurz
-  - Samuel M Poloyac
-  - Nicholas S Abend
-  - Anthony Fabio
-  - Michael J Bell
-  - Mark S Wainwright
-  publisher: 'Pediatric critical care medicine : a journal of the Society of Critical
-    Care Medicine and the World Federation of Pediatric Intensive and Critical Care
-    Societies'
-  date: '2016-07-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/27243415
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.1097/PCC.0000000000000765
   title: "Variation in Anticonvulsant Selection and Electroencephalographic Monitoring\
     \ Following Severe Traumatic Brain Injury in Children\u2014Understanding Resource\
@@ -2275,21 +1913,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:26203702
-  title: Ventilator-Associated Pneumonia in Pediatric Traumatic Brain Injury.
-  authors:
-  - Mitchell Hamele
-  - Chris Stockmann
-  - Meghan Cirulis
-  - Jay Riva-Cambrin
-  - Ryan Metzger
-  - Tellen D Bennett
-  - Susan L Bratton
-  publisher: Journal of neurotrauma
-  date: '2015-10-02'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/26203702
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.1089/neu.2015.4004
   title: Ventilator-Associated Pneumonia in Pediatric Traumatic Brain Injury
   authors:
@@ -2307,22 +1934,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:25803749
-  title: Cervical spine imaging in hospitalized children with traumatic brain injury.
-  authors:
-  - Tellen D Bennett
-  - Susan L Bratton
-  - Jay Riva-Cambrin
-  - Eric R Scaife
-  - Michael L Nance
-  - Jeffrey S Prince
-  - Jacob Wilkes
-  - Heather T Keenan
-  publisher: Pediatric emergency care
-  date: '2015-04-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/25803749
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.1097/PEC.0000000000000395
   title: Cervical Spine Imaging in Hospitalized Children With Traumatic Brain Injury
   authors:
@@ -2341,18 +1956,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:25946262
-  title: 'Functional status after pediatric critical care: is it the disease, the
-    cure, or both?'
-  authors:
-  - Tellen D Bennett
-  publisher: 'Pediatric critical care medicine : a journal of the Society of Critical
-    Care Medicine and the World Federation of Pediatric Intensive and Critical Care
-    Societies'
-  date: '2015-05-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/25946262
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.1097/PCC.0000000000000380
   title: Functional Status After Pediatric Critical Care
   authors:
@@ -2364,21 +1971,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:26021580
-  title: Linked Records of Children with Traumatic Brain Injury. Probabilistic Linkage
-    without Use of Protected Health Information.
-  authors:
-  - T D Bennett
-  - J M Dean
-  - H T Keenan
-  - M H McGlincy
-  - A M Thomas
-  - L J Cook
-  publisher: Methods of information in medicine
-  date: '2015-05-29'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/26021580
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.3414/ME14-01-0093
   title: Linked Records of Children with Traumatic Brain Injury
   authors:
@@ -2415,38 +2011,15 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:26627225
-  title: Structure, Process, and Culture Differences of Pediatric Trauma Centers Participating
-    in an International Comparative Effectiveness Study of Children with Severe Traumatic
-    Brain Injury.
-  authors:
-  - Gitte Y Larsen
-  - Michelle Schober
-  - Anthony Fabio
-  - Stephen R Wisniewski
-  - Mary Jo C Grant
-  - Nadeem Shafi
-  - Tellen D Bennett
-  - Deborah Hirtz
-  - Michael J Bell
-  publisher: Neurocritical care
-  date: '2016-06-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/26627225
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: pmid:24389712
-  title: Age-specific cerebral perfusion pressure thresholds*.
-  authors:
-  - Tellen D Bennett
-  - Susan L Bratton
-  publisher: 'Pediatric critical care medicine : a journal of the Society of Critical
-    Care Medicine and the World Federation of Pediatric Intensive and Critical Care
-    Societies'
-  date: '2014-01-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/24389712
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.1097/PCC.0000000000000001
   title: Age-Specific Cerebral Perfusion Pressure Thresholds*
   authors:
@@ -2500,41 +2073,15 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:24164955
-  title: 'Pediatric and neonatal extracorporeal membrane oxygenation: does center
-    volume impact mortality?*.'
-  authors:
-  - Carrie L Freeman
-  - Tellen D Bennett
-  - T Charles Casper
-  - Gitte Y Larsen
-  - Ania Hubbard
-  - Jacob Wilkes
-  - Susan L Bratton
-  publisher: Critical care medicine
-  date: '2014-03-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/24164955
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: pmid:24751786
-  title: Use of Rotterdam CT scores for mortality risk stratification in children
-    with traumatic brain injury.
-  authors:
-  - Kate Liesemer
-  - Jay Riva-Cambrin
-  - Kimberly Statler Bennett
-  - Susan L Bratton
-  - Henry Tran
-  - Ryan R Metzger
-  - Tellen D Bennett
-  publisher: 'Pediatric critical care medicine : a journal of the Society of Critical
-    Care Medicine and the World Federation of Pediatric Intensive and Critical Care
-    Societies'
-  date: '2014-07-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/24751786
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.1097/PCC.0000000000000150
   title: Use of Rotterdam CT Scores for Mortality Risk Stratification in Children
     With Traumatic Brain Injury*
@@ -2572,19 +2119,10 @@
   file: orcid.yaml
   date: ''
 - id: pmid:23473704
-  title: Initiation of physical, occupational, and speech therapy in children with
-    traumatic brain injury.
-  authors:
-  - Tellen D Bennett
-  - Christian M Niedzwecki
-  - E Kent Korgenski
-  - Susan L Bratton
-  publisher: Archives of physical medicine and rehabilitation
-  date: '2013-03-06'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/23473704
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.1093/jpids/pis092
   title: Local Health Department Influenza Surveillance Estimates and Projections
     of Peak Pediatric Intensive Care Unit Occupancy During the 2009 Influenza A Pandemic
@@ -2604,23 +2142,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:26619507
-  title: Local Health Department Influenza Surveillance Estimates and Projections
-    of Peak Pediatric Intensive Care Unit Occupancy During the 2009 Influenza A Pandemic.
-  authors:
-  - Chris Stockmann
-  - Krow Ampofo
-  - Adam L Hersh
-  - Tellen D Bennett
-  - Rachelle Boulton
-  - Parker Plant
-  - Carrie L Byington
-  - Andrew T Pavia
-  publisher: Journal of the Pediatric Infectious Diseases Society
-  date: '2012-10-07'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/26619507
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.1097/PCC.0b013e31825b8622
   title: Intensive care requirement, rather than degree of serum ferritin elevation,
     predicts mortality in macrophage activation syndrome
@@ -2665,27 +2190,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:22886474
-  title: Macrophage activation syndrome in children with systemic lupus erythematosus
-    and children with juvenile idiopathic arthritis.
-  authors:
-  - Tellen D Bennett
-  - Mark Fluchel
-  - Aimee O Hersh
-  - Kristen N Hayward
-  - Adam L Hersh
-  - Thomas V Brogan
-  - Rajendu Srivastava
-  - Bryan L Stone
-  - E Kent Korgenski
-  - Michael B Mundorff
-  - T Charles Casper
-  - Susan L Bratton
-  publisher: Arthritis and rheumatism
-  date: '2012-12-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/22886474
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.1097/CCM.0b013e31822e9d31
   title: Osmolar therapy in pediatric traumatic brain injury*
   authors:
@@ -2705,20 +2213,10 @@
   file: orcid.yaml
   date: ''
 - id: pmid:22751878
-  title: Variation in intracranial pressure monitoring and outcomes in pediatric traumatic
-    brain injury.
-  authors:
-  - Tellen D Bennett
-  - Jay Riva-Cambrin
-  - Heather T Keenan
-  - E Kent Korgenski
-  - Susan L Bratton
-  publisher: Archives of pediatrics & adolescent medicine
-  date: '2012-07-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/22751878
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.1001/archpediatrics.2012.322
   title: Variation in Intracranial Pressure Monitoring and Outcomes in Pediatric Traumatic
     Brain Injury
@@ -2759,37 +2257,15 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:21336186
-  title: 'Pediatric trauma transport performance measures in a mountain state: adherence
-    and outcomes.'
-  authors:
-  - Stephen J Gleich
-  - Tellen D Bennett
-  - Susan L Bratton
-  - Gitte Y Larsen
-  publisher: The Journal of trauma
-  date: '2011-10-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/21336186
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: pmid:21263363
-  title: Very high serum ferritin levels are associated with increased mortality and
-    critical care in pediatric patients.
-  authors:
-  - Tellen D Bennett
-  - Kristen N Hayward
-  - Reid W D Farris
-  - Sarah Ringold
-  - Carol A Wallace
-  - Thomas V Brogan
-  publisher: 'Pediatric critical care medicine : a journal of the Society of Critical
-    Care Medicine and the World Federation of Pediatric Intensive and Critical Care
-    Societies'
-  date: '2011-11-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/21263363
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.1097/PCC.0b013e31820abca8
   title: Very high serum ferritin levels are associated with increased mortality and
     critical care in pediatric patients
@@ -2831,19 +2307,10 @@
   file: orcid.yaml
   date: ''
 - id: pmid:21098152
-  title: Influence of birth hospital on outcomes of ductal-dependent cardiac lesions.
-  authors:
-  - Tellen D Bennett
-  - Matthew B Klein
-  - Mathew D Sorensen
-  - Anneclaire J De Roos
-  - Frederick P Rivara
-  publisher: Pediatrics
-  date: '2010-11-22'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/21098152
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.1542/peds.2009-2829
   title: Influence of Birth Hospital on Outcomes of Ductal-Dependent Cardiac Lesions
   authors:
@@ -2864,20 +2331,10 @@
   file: orcid.yaml
   date: ''
 - id: pmid:16966993
-  title: Crash analysis of lower extremity injuries in children restrained in forward-facing
-    car seats during front and rear impacts.
-  authors:
-  - Tellen D Bennett
-  - Robert Kaufman
-  - Melissa Schiff
-  - Charles Mock
-  - Linda Quan
-  publisher: The Journal of trauma
-  date: '2006-09-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/16966993
   orcid: 0000-0003-1483-4236
   plugin: orcid.py
   file: orcid.yaml
+  date: ''
 - id: doi:10.1097/01.ta.0000195792.26837.99
   title: Crash Analysis of Lower Extremity Injuries in Children Restrained in Forward-facing
     Car Seats During Front and Rear Impacts
